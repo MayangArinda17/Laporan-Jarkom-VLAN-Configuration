@@ -39,6 +39,76 @@
 
 
 
+![2024-03-26_23-13](https://github.com/MayangArinda17/Laporan-Jarkom-VLAN-Configuration/assets/150981696/22cdece5-fd4c-4ab4-ba16-08b460bb7ff4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![2024-03-26_23-13_1](https://github.com/MayangArinda17/Laporan-Jarkom-VLAN-Configuration/assets/150981696/ba451a61-e0ed-409a-b746-cacd34b8e1bb)
+
+
+
+
+
+
+
+
+
+
+
+
+
+![2024-03-26_23-23](https://github.com/MayangArinda17/Laporan-Jarkom-VLAN-Configuration/assets/150981696/7c12c0ea-3c79-406d-9ee7-bfb20e897886)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![2024-03-26_23-23_1](https://github.com/MayangArinda17/Laporan-Jarkom-VLAN-Configuration/assets/150981696/2f947a6a-9d8d-4533-985a-e3473c270790)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
